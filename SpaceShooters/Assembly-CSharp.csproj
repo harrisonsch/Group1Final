@@ -42,6 +42,7 @@
   <ItemGroup>
      <Compile Include="Assets/FlyingController.cs" />
      <Compile Include="Assets/FPSController.cs" />
+     <None Include="Assets/purple-nebula.xml" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
