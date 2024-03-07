@@ -315,6 +315,7 @@ MonoBehaviour:
   rollPower: 120
   yawPower: 150
   enginePower: 100
+  turnPower: 100
 --- !u!143 &752030755
 CharacterController:
   m_ObjectHideFlags: 0
