@@ -379,7 +379,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 106,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -2460,7 +2460,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 53309,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -3143,7 +3143,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 101556,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3837,7 +3837,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 160998,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4437,7 +4437,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 206729,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4990,7 +4990,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 250021,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.UnityAdditionalFile.txt"
@@ -5845,7 +5845,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 324904,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -6409,7 +6409,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 370982,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -7229,7 +7229,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 444945,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -7778,7 +7778,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 489845,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -8322,7 +8322,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 533854,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -8868,7 +8868,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 578722,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -9403,7 +9403,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 622360,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -9978,7 +9978,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 668873,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -10567,7 +10567,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 716451,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -11106,7 +11106,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 760081,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11656,7 +11656,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 804882,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12210,7 +12210,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 848053,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt"
@@ -12731,7 +12731,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 888175,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -13357,7 +13357,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 935273,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13958,7 +13958,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 982745,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -14782,7 +14782,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1049739,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -15729,7 +15729,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1144844,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -16752,7 +16752,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1244440,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -17678,7 +17678,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1335182,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -18429,7 +18429,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1398939,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -18984,7 +18984,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1443931,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -19580,7 +19580,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1488864,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -20199,7 +20199,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1540663,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -20773,7 +20773,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1584751,
       "PayloadLength": 65,
-      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/GameDe",
+      "PayloadDebugContentSnippet": "/Users/harrison/Desktop/untitl",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -20785,7 +20785,7 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 1584901,
-      "PayloadLength": 33349,
+      "PayloadLength": 33384,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -20797,7 +20797,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1618336,
+      "PayloadOffset": 1618371,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -21044,6 +21044,7 @@
         "Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll",
         "Assets/Scripts/FlyingController.cs",
         "Assets/Scripts/FPSController.cs",
+        "Assets/Scripts/GameController.cs",
         "/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp"
@@ -21283,7 +21284,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1618431,
+      "PayloadOffset": 1618466,
       "PayloadLength": 9338,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -22429,7 +22430,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.InputSystem.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/ScriptAssemblies\" -s=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator\" -s=\"/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.InputSystem.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/ScriptAssemblies\" -s=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator\" -s=\"/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -22585,7 +22586,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/getconf"
+      "File": "/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -22725,6 +22726,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/200b0aE.dag.json",
-  "PayloadsFile": "/Users/harrison/Desktop/GameDesignFinal/Group1Final/SpaceShooters/Library/Bee/200b0aE.dag.payloads",
+  "PayloadsFile": "/Users/harrison/Desktop/untitled folder/Group1Final/SpaceShooters/Library/Bee/200b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

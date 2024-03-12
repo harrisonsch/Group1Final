@@ -355,6 +355,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.2.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/FlyingController.cs"
 "Assets/Scripts/FPSController.cs"
+"Assets/Scripts/GameController.cs"
 -langversion:9.0
 
 /deterministic
